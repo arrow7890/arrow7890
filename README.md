@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+##
+## I'm a AI Engineer and Data Scientist
+## Results-driven AI Engineer & Data Scientist with strong expertise in machine learning, deep learning, and data analytics. Proven track record of designing, deploying, and optimizing AI models for real-world applications.  Passionate about turning data into actionable insights and building scalable AI solutions.
 <!--
 **arrow7890/arrow7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
