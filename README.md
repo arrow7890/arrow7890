@@ -1,7 +1,11 @@
 ## Hi there 👋
 ##
 ## I'm a AI Engineer and Data Scientist
-## Results-driven AI Engineer & Data Scientist with strong expertise in machine learning, deep learning, and data analytics. Proven track record of designing, deploying, and optimizing AI models for real-world applications.  Passionate about turning data into actionable insights and building scalable AI solutions.
+## In fact , 50 euro is a little bit for me, and furthermore I have to pay 12% fee.
+## so I suggest we will complete the project out of freelancer.
+## If you agree, please ping me.
+## discord username : @arrow67890
+## email : johnson1994212@outlook.com
 <!--
 **arrow7890/arrow7890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
